@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M. Rupesh Kumar.
 - 👀 I’m interested in Computer Vision, Image processing, Machine learning and Deep Learning.
-- 🌱 I’m currently learning Modern Computer vision advancements in the Medical data (Speech and Images).
+- 🌱 I’m currently learning Modern Computer vision advancements in the Medical data (Speech, Images and Videos).
 - 💞️ I’m looking to collaborate on Industry specific application of Machine and Deep Learning.
 - 📫 How to reach me : mrkmrk1999@gmail.com
 
