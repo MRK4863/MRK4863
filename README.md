@@ -6,7 +6,6 @@
 
 
 ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRK4863&show_icons=true&theme=transparent&rank_icon=github&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRK4863&layout=donut-vertical&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 MRK4863/MRK4863 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
