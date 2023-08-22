@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, Image processing, Machine learning and Deep Learning.
 - 🌱 I’m currently learning Modern Computer vision advancements in the Medical data (Speech, Images and Videos).
 - 💞️ I’m looking to collaborate on Industry specific application of Machine and Deep Learning.
-- 📫 How to reach me : mrkmrk1999@gmail.com
+- 📫 How to reach me : m.rupeshkumar.iitd@gmail.com
 
 
 ![Rupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRK4863&show_icons=true&theme=transparent&rank_icon=github&count_private=true)
